@@ -18,18 +18,18 @@ Processes and indexes over 5TB of synthetic PII data into vector databases for f
 
 ## 🔧 Tech Stack
 
-- **Languages**: Python
-- **Libraries**: NumPy, LangChain, Pinecone, OpenAI, HuggingFace, Groq
-- **Data Sources**: Synthetic Kaggle datasets
+- **Languages**: Python  
+- **Libraries**: NumPy, LangChain, Pinecone, OpenAI, HuggingFace, Groq  
+- **Data Sources**: Synthetic Kaggle datasets  
 
 ---
 
 ## ⚙️ Features
 
-- 📄 Document chunking and embedding via LangChain + OpenAI
-- 🧠 Vector store retrieval with Pinecone
-- 🔄 LLM-backed summarization + query resolution
-- 🚀 Groq acceleration for high-throughput inference
+- 📄 Document chunking and embedding via LangChain + OpenAI  
+- 🧠 Vector store retrieval with Pinecone  
+- 🔄 LLM-backed summarization + query resolution  
+- 🚀 Groq acceleration for high-throughput inference  
 
 ---
 
